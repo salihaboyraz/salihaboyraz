@@ -1,16 +1,32 @@
-## Hi there 👋
+# Selam! Ben Saliha 👋
 
-<!--
-**salihaboyraz/salihaboyraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi **Bilgi Güvenliği Teknolojisi** öğrencisiyim. Siber güvenlik, ağ güvenliği ve yazılım geliştirme alanında kendimi geliştirmeye, öğrendiklerimi pratik çalışmalarla pekiştirmeye odaklanıyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Odak Alanlarım & Çalışmalarım
+- **Ağ Temelleri & Sistem Yönetimi:** Ağ mimarileri, Active Directory domain ortamı kurulumları ve sistem pratikleri.
+- **İşletim Sistemleri:** Kali Linux kullanımı, sistem yönetimi ve sanal lab senaryoları.
+- **Yazılım & Algoritma:** C++ ile Nesne Yönelimli Programlama (OOP) ve prosedürel programlama.
+
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+| Alan | Kullanılan Teknolojiler |
+| :--- | :--- |
+| **Programlama** | C++ (Nesne Yönelimli Programlama - OOP) |
+| **İşletim Sistemleri** | Kali Linux, Ubuntu, Windows Server |
+| **Ağ & Sistem** | Ağ Temelleri, Active Directory |
+| **Sanal Ortamlar** | VMware Workstation, VirtualBox |
+
+---
+
+### 📂 Projeler & Lab Çalışmaları
+- 🔹 **Active Directory Domain Lab:** VMware üzerinde Windows Server 2022 & Windows 11 kullanılarak oluşturulmuş yerel AD ortamı ve yapılandırması.
+- 🔹 **C++ OOP Çalışmaları:** Nesne yönelimli programlama mantığıyla hazırlanmış temel projeler.  
+
+---
+
+### 🔗 İletişim
+- 💼 **Linkedln:** [Saliha Boyraz](www.linkedin.com/in/saliha-boyraz-6a0982395) 
