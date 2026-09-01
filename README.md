@@ -25,7 +25,7 @@ Bilgi Güvenliği Teknolojisi lisans 2. sınıf öğrencisiyim. Siber güvenliğ
 
 ---
 
-# Hi, I'm Saliha 👋
+# Hi, I'm Saliha 
 
 2nd year Information Security Technology student. I focus on learning the logic behind systems, networking basics, and cyber defense instead of just staying theoretical.
 
